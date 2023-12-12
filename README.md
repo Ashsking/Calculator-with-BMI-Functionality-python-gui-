@@ -13,7 +13,7 @@ This project is a comprehensive calculator application developed using Python an
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Run the `calculator.py` script using a Python interpreter.
+2. Run the `Calculator.py` script using a Python interpreter.
 3. Explore the calculator's features, enter calculations, and use the BMI calculator for health insights.
 
 ## Acknowledgments
